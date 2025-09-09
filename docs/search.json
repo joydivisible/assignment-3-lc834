@@ -2,7 +2,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+<<<<<<< Updated upstream
     "title": "Home Page",
+=======
+    "title": "index name",
+>>>>>>> Stashed changes
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -12,5 +16,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Reach us via email: —"
   }
 ]
