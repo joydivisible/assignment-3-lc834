@@ -1,5 +1,5 @@
 ---
-title: "index name"
+title: "home page"
 ---
 
 This is a Quarto website.
