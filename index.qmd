@@ -2,6 +2,7 @@
 title: "This is Our Website on Lara's End's Home Page"
 ---
 
+<<<<<<< HEAD
 Here is a link to our Github accounts:
 
 * Lara - [joydivisible](https://github.com/joydivisible)
@@ -11,4 +12,6 @@ Here is a link to our Github accounts:
 
 Figure: I'm a cat eating breakfast
 
+=======
+>>>>>>> 9bb645f5991130624d363aa295b5e2d1ae53ddec
 Hi this is Emma typing
