@@ -140,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Here is a link to our Github accounts:</p>
+<p>Here is a link to our Github accounts:</p>
 <ul>
 <li>Lara - <a href="https://github.com/joydivisible">joydivisible</a></li>
 <li>Emma - <a href="https://github.com/ecm244">ecm244</a></li>
@@ -152,7 +152,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 <p>Figure: I’m a cat eating breakfast</p>
-<p>======= Hi this is Emma typing</p>
+<p>=======</p>
+<p>Hi this is Emma typing</p>
 
 
 
@@ -230,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/joydivisible\.github\.io\/collab-website-week3-NTRES6100\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
