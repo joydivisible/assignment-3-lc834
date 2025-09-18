@@ -1,27 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-<<<<<<< Updated upstream
-    "title": "Home Page",
-=======
-    "title": "index name",
->>>>>>> Stashed changes
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Lara",
     "section": "",
-    "text": "About this site"
+    "text": "Here are some fun facts about me!\n\nMy favorite writers are Gabriel Garcia Marquez and Virginia Woolf\nI am currently learning the indigenous language Quechua\nI weightlift in my free time"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Reach us via email: —"
+    "text": "Reach us via email."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is Our Website on Lara’s End’s Home Page",
+    "section": "",
+    "text": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Here is a link to our Github accounts:\n\nLara - joydivisible\nEmma - ecm244\n\n\n\n\nA cat eating breakfast.\n\n\nFigure: I’m a cat eating breakfast\n======= Hi this is Emma typing"
   }
 ]
