@@ -3,11 +3,7 @@ project:
   output-dir: docs
 
 website:
-<<<<<<< Updated upstream
   title: "Emma and Lara's Website"
-=======
-  title: "Emma and Lara"
->>>>>>> Stashed changes
   navbar:
     left:
       - href: index.qmd

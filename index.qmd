@@ -1,7 +1,14 @@
 ---
-title: "Home Page"
+title: "This is Our Website on Lara's End's Home Page"
 ---
 
-This is a Quarto website.
+Here is a link to our Github accounts:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+* Lara - [joydivisible](https://github.com/joydivisible)
+* Emma - [ecm244](https://github.com/ecm244)
+
+![A cat eating breakfast.](image.png){width=60%}
+
+Figure: I'm a cat eating breakfast
+
+Hi this is Emma typing

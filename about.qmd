@@ -1,5 +1,12 @@
 ---
-title: "About"
+title: "Lara"
 ---
 
-About this site
+Here are some fun facts about me!
+
+* My favorite writers are Gabriel Garcia Marquez and Virginia Woolf
+
+* I am currently learning the indigenous language Quechua
+
+* I weightlift in my free time
+
